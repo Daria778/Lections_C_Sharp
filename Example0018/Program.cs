@@ -25,5 +25,5 @@ for (int i = 0; i < files.Length; i++)
 }
 }
 
-string path = ;
+string path = "/Users/daria/Desktop/Examples/Example012_method";
 CatalogInfo(path);
